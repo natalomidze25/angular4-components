@@ -1,0 +1,16 @@
+#studentName{
+  font-size: 1.5rem;
+  font-weight: 688;
+  margin: 0;
+}
+#studentAge{
+  margin: 0;
+  font-weight: 488;
+  font-size: 1.5rem;
+}
+.students-info-div{
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 1rem;
+}
